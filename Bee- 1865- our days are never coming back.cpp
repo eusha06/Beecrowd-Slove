@@ -5,7 +5,7 @@ using namespace std;
 #define pb push_back
 #define forn(i, n) for(int i = 0; i < int(n); i++)
 #define MOD 1000000007
-#define w(t) int t; cin >> t; cin.ignore(); while (t--) // Added cin.ignore()
+#define w(t) int t; cin >> t; cin.ignore(); while (t--) 
 int main() {
     sakalakabumbum();
     string a="LIFE IS NOT A PROBLEM TO BE SOLVED";
